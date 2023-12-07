@@ -12,7 +12,7 @@ const questions = [
   {
     type: "input",
     name: "description",
-    message: "WTF does your appliction do?",
+    message: "What does your appliction do?",
   },
   {
     type: "input",
@@ -64,6 +64,12 @@ function init() {
     console.log(data);
     fs.writeFileSync("readmetest.md", generateMarkdown(data));
   });
+}
+
+function writeToFile(fileName, data) {
+  fs.writeFileSync(fileName, data, (err) =>
+    err ? console.log(err) : console.log("Successfully created README!")
+  );
 }
 
 // Function call to initialize app
