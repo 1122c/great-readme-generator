@@ -37,8 +37,8 @@ for demonstration purposes only.
 
 ## Tests
 
-![link to screencastify demonstration](https://drive.google.com/file/d/1UgsJmKY7tLM_UHKYafT_LUfaezMrSil8/view)
+(https://drive.google.com/file/d/1UgsJmKY7tLM_UHKYafT_LUfaezMrSil8/view)
 
 ## Questions
 
-Find more of my work at ![test](https://github.com/1122c/).
+
