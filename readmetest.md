@@ -15,27 +15,30 @@ Screencastify demonstration of readme generator using node.js
 
 ## Installation
 
-used
+NA.
 
 ## Usage
 
-test
+creates a README markdown. 
+
+MIT link below is for demonstration purposes.
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## License
 
-This project is licensed under the MIT license.
+for demonstration purposes only.
 
 ## Contributing
 
-test
+- multiple tutors
+- Google
+- Screencastify 
 
 ## Tests
 
-test
+![link to screencastify demonstration](https://drive.google.com/file/d/1UgsJmKY7tLM_UHKYafT_LUfaezMrSil8/view)
 
 ## Questions
 
-For questions, please contact test.
-Find more of my work at [test](https://github.com/test/).
+Find more of my work at ![test](https://github.com/1122c/).
